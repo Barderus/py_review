@@ -1,0 +1,62 @@
+Easy Exercises
+Dictionary Access: Create a dictionary person with keys 'name', 'age', and 'city'. Print the value associated with the 'name' key.
+
+List Indexing: Given the list [1, 2, 3, 4, 5], print the second element.
+
+Tuple Access: Given the tuple (10, 20, 30), print the third element.
+
+Set Addition: Given an empty set s, add the number 5 to the set and print the set.
+
+List Concatenation: Given the lists [1, 2] and [3, 4], concatenate them and print the result.
+
+Dictionary Update: Create a dictionary student with 'name' and 'grade'. Update the 'grade' to a new value and print the dictionary.
+
+Tuple Length: Given the tuple (1, 2, 3, 4), print the length of the tuple.
+
+Set Union: Given two sets {1, 2, 3} and {3, 4, 5}, compute and print their union.
+
+List Slicing: Given the list [10, 20, 30, 40, 50], print the slice from the second to the fourth element.
+
+Dictionary Keys: Create a dictionary info with 'name', 'age', and 'city'. Print all the keys of the dictionary.
+
+Medium Exercises
+Dictionary Iteration: Given the dictionary {'a': 1, 'b': 2}, iterate through it and print each key-value pair.
+
+List Comprehension: Create a list of squares for numbers from 1 to 5 using list comprehension.
+
+Tuple Unpacking: Given the tuple (1, 'apple'), unpack it into num and fruit and print them.
+
+Set Intersection: Given two sets {1, 2, 3} and {2, 3, 4}, compute and print their intersection.
+
+List Filtering: Given the list [1, 2, 3, 4, 5, 6], create a new list containing only the even numbers.
+
+Dictionary Merge: Merge two dictionaries { 'a': 1, 'b': 2 } and { 'b': 3, 'c': 4 } and print the result.
+
+Tuple as Dictionary Key: Create a dictionary where the keys are tuples representing coordinates, and the values are strings describing locations.
+
+Set Difference: Given two sets {1, 2, 3} and {2, 3, 4}, compute and print the difference between them.
+
+List Sorting: Given the list [3, 1, 4, 1, 5], sort it in ascending order and print the sorted list.
+
+Dictionary Value Extraction: Given the dictionary {'name': 'Alice', 'age': 25}, extract and print the values in a list.
+
+Hard Exercises
+Nested Dictionary Access: Given the nested dictionary {'user': {'name': 'John', 'details': {'age': 30}}}, access and print the age.
+
+Flatten List of Lists: Given the list [[1, 2], [3, 4], [5]], flatten it into a single list and print the result.
+
+Tuple as List Element: Given the list [(1, 'a'), (2, 'b')], create a dictionary where the first element of each tuple is the key and the second element is the value.
+
+Set Symmetric Difference: Given two sets {1, 2, 3} and {2, 3, 4}, compute and print the symmetric difference.
+
+List of Tuples to Dictionary: Convert the list [(1, 'a'), (2, 'b'), (3, 'c')] into a dictionary and print it.
+
+Dictionary Value Aggregation: Given a dictionary {'a': [1, 2], 'b': [3, 4]}, compute the sum of all values and print the result.
+
+Tuple Operations: Given a tuple (10, 20, 30, 40), compute and print the sum of all elements in the tuple.
+
+Set Element Count: Given a list [1, 2, 2, 3, 3, 3], create a set from the list and count the number of elements in the set.
+
+Dictionary with Lists: Create a dictionary where each key maps to a list of integers. Compute and print the average value for each list.
+
+List of Dictionaries: Given the list [{'name': 'Alice', 'age': 25}, {'name': 'Bob', 'age': 30}], find and print the name of the oldest person.

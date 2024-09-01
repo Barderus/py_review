@@ -1,0 +1,62 @@
+Easy Exercises
+Basic Class Creation: Create a class Dog with an attribute name. Instantiate an object of this class and print its name.
+
+Simple Method: Create a class Person with a method greet() that prints "Hello, my name is <name>". Instantiate an object and call this method.
+
+Class with Constructor: Create a class Car with a constructor that takes make and model as parameters. Print these attributes from an instance.
+
+Getter and Setter: Create a class Rectangle with private attributes width and height. Implement getter and setter methods to access and modify these attributes.
+
+Method with Parameters: Create a class Book with a method describe() that takes a title and author as parameters and prints a description of the book.
+
+Basic Inheritance: Create a base class Animal with a method make_sound(). Create a derived class Cat that overrides make_sound() to print "Meow".
+
+Instance Method: Create a class Student with an attribute grade and a method is_passing() that returns True if the grade is above 60.
+
+Class Attributes: Create a class Company with a class attribute company_name. Instantiate two objects and print the class attribute for both.
+
+Class Method: Create a class Employee with a class method create_employee(name) that creates and returns an instance of the class with the given name.
+
+Object Initialization: Create a class Laptop with brand and price attributes. Write a method display_info() to print the brand and price of the laptop.
+
+Medium Exercises
+Encapsulation: Create a class BankAccount with private attributes balance. Provide methods to deposit() and withdraw() money, and a method to check the current balance.
+
+Inheritance and Method Overriding: Create a base class Vehicle with a method start_engine(). Derive a class ElectricCar that overrides this method to print "Electric engine started".
+
+Multiple Inheritance: Create a base class Person with attributes name and age. Derive a class Employee and another class Student, and then create a class Intern that inherits from both Employee and Student.
+
+Polymorphism: Create a base class Shape with a method area(). Derive Circle and Rectangle classes that override area() to return the area of the respective shape.
+
+Composition: Create a class Library that contains a list of Book objects. Implement methods to add and list books.
+
+Class Method for Instance Creation: Create a class Date with attributes day, month, and year. Implement a class method from_string(date_str) that creates an instance from a date string in the format "YYYY-MM-DD".
+
+Method Overloading: Create a class Calculator with multiple methods add(), which can handle adding integers, floats, or lists of numbers.
+
+Custom Exceptions: Create a class AgeException that inherits from Python’s built-in Exception. Use it to raise an exception in a class Person if an invalid age is provided.
+
+Abstract Base Class: Create an abstract base class Animal with an abstract method make_sound(). Implement this in concrete classes Dog and Bird.
+
+Class Inheritance with Super: Create a base class Person with name and age. Derive a class Employee that adds a salary attribute and uses super() to initialize the base class attributes.
+
+Hard Exercises
+Real-Life Banking System: Create a class Bank with methods to create_account(), deposit(), withdraw(), and check_balance(). Use this to simulate basic banking operations.
+
+Inventory System: Design a class Product with attributes name, price, and quantity. Create another class Inventory that manages a list of Product instances and provides methods to add products and get the total value of the inventory.
+
+Online Shopping Cart: Create a class Cart that contains a list of Item objects. Implement methods to add items, remove items, and calculate the total cost of the cart.
+
+Hotel Booking System: Design a class Room with attributes room_number, type, and price_per_night. Create a class Hotel that manages bookings and provides methods to book a room and check availability.
+
+University System: Create a class Course with attributes course_name and credits. Create a class Student that keeps track of enrolled courses and calculates the total credits.
+
+Library Management System: Design a Library class that contains a list of Book instances. Implement methods for checking out and returning books, as well as keeping track of due dates.
+
+Social Media Profile: Create a class Profile with attributes username, email, and posts. Implement methods to create a post, follow another profile, and list all posts.
+
+Travel Itinerary: Design a class Trip with attributes destination, start_date, and end_date. Create a class Traveler that manages a list of Trip instances and provides methods to add a trip and view upcoming trips.
+
+Game Character: Create a class Character with attributes name, health, and attack_power. Implement methods to attack another Character and heal itself.
+
+Vehicle Fleet Management: Design a class Fleet that contains multiple Vehicle instances. Implement methods to add vehicles, calculate total maintenance costs, and find the vehicle with the highest mileage.

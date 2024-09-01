@@ -1,0 +1,73 @@
+Easy Exercises
+String Iteration: Print each character of the string "Python" on a new line.
+
+List Iteration: Iterate over the list [10, 20, 30, 40] and print each element doubled.
+
+Tuple Iteration: Given the tuple (5, 10, 15), print each value multiplied by 3.
+
+Dictionary Iteration: Iterate over the dictionary {'a': 1, 'b': 2, 'c': 3} and print each key-value pair in the format "key: value".
+
+Set Iteration: Print each element of the set {1, 2, 3, 4}.
+
+String Indexing: For the string "hello", print each character along with its index.
+
+List of Strings: Iterate over the list ['apple', 'banana', 'cherry'] and print each string's length.
+
+List Comprehension: Use a for loop to create a new list containing the squares of numbers in the list [1, 2, 3, 4, 5].
+
+Dictionary Values: Given the dictionary {'x': 10, 'y': 20, 'z': 30}, print only the values.
+
+String Splitting: For the string "one,two,three", split it by commas and print each word.
+
+Medium Exercises
+Sum of Numbers: Calculate and print the sum of all numbers from 1 to 100 using a for loop.
+
+Reverse String: Given a string "hello", print the string in reverse using a for loop.
+
+Multiplication Table: Print the multiplication table for a number (e.g., 7) up to 10.
+
+Character Count: Given the string "programming", count and print the number of occurrences of each character.
+
+Pattern Printing: Print a pattern of stars like this:
+
+
+*
+**
+***
+****
+Range Sum: Calculate and print the sum of all even numbers from 1 to 50.
+
+Digit Sum: Given a number (e.g., 1234), compute and print the sum of its digits.
+
+Even and Odd: Iterate over the range from 1 to 20 and print whether each number is even or odd.
+
+Cumulative Sum: Given the list [1, 2, 3, 4], compute and print the cumulative sum of the list elements.
+
+String Join: Given a list of words ['hello', 'world'], join them into a single string separated by spaces and print it.
+
+Hard Exercises
+Factorial Calculation: Compute and print the factorial of a number (e.g., 5) using a for loop.
+
+Fibonacci Sequence: Print the first 10 numbers of the Fibonacci sequence.
+
+Prime Numbers: Print all prime numbers between 1 and 50.
+
+List Filtering: Given the list [1, 2, 3, 4, 5, 6], create a new list containing only the even numbers and print it.
+
+Nested Dictionary: For the dictionary {'user1': {'name': 'John', 'age': 30}, 'user2': {'name': 'Jane', 'age': 25}}, print each user’s name and age.
+
+Set of Tuples: For the set {(1, 'a'), (2, 'b')}, iterate over it and print the first and second elements of each tuple.
+
+List of Lists: Given the list [[1, 2], [3, 4], [5, 6]], iterate over it and print the sum of each inner list.
+
+Multiples of a Number: Print the first 10 multiples of a number (e.g., 3).
+
+String Character Frequency: Given a string "aabbcc", count and print the frequency of each character using a dictionary.
+
+String Pattern Generation: Print a pattern like this:
+
+1
+22
+333
+4444
+where the number of rows and the repeating digit is based on a given number (e.g., 4).

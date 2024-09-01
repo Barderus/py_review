@@ -1,0 +1,60 @@
+Easy Exercises
+Basic Comparison: Given the number 10, print "Greater than 5" if the number is greater than 5, otherwise print "5 or less".
+
+Even or Odd: Given a number 7, print "Even" if the number is even, otherwise print "Odd".
+
+String Length: Given the string "hello", print "Short" if the length is less than 5, otherwise print "Long".
+
+Temperature Check: Given the temperature 30, print "Hot" if it is greater than 25, otherwise print "Cool".
+
+Grade Check: Given a score of 85, print "Pass" if the score is greater than or equal to 60, otherwise print "Fail".
+
+Number Comparison: Given two numbers, a = 3 and b = 5, print "a is less than b" if a is less than b, otherwise print "a is not less than b".
+
+String Presence: Given the string "hello world", print "Contains 'hello'" if 'hello' is in the string, otherwise print "Does not contain 'hello'".
+
+Positive or Negative: Given a number -4, print "Positive" if the number is greater than 0, otherwise print "Negative".
+
+Age Check: Given an age 18, print "Adult" if the age is greater than or equal to 18, otherwise print "Minor".
+
+Medium Exercises
+Divisibility Check: Given a number 12, print "Divisible by 3" if it is divisible by 3, otherwise print "Not divisible by 3".
+
+Nested Conditionals: Given a number 15, print "High" if the number is greater than 10 and "Low" if it is 10 or less.
+
+String Case: Given the string "Python", print "Uppercase" if the string is uppercase, "Lowercase" if it is lowercase, and "Mixed case" if it is neither.
+
+Vowel Check: Given a character 'e', print "Vowel" if it is one of the vowels ('a', 'e', 'i', 'o', 'u'), otherwise print "Consonant".
+
+Range Check: Given a number 50, print "Between 20 and 60" if it is within that range (inclusive), otherwise print "Outside the range".
+
+Password Strength: Given a password "abc123", print "Weak" if it is less than 8 characters long, "Moderate" if it is between 8 and 12 characters, and "Strong" if it is more than 12 characters long.
+
+Leap Year: Given a year 2024, print "Leap year" if it is a leap year, otherwise print "Not a leap year". (A year is a leap year if divisible by 4, but not divisible by 100, unless also divisible by 400.)
+
+Day of Week: Given a number 3, print "Weekday" if the number corresponds to Monday through Friday (1-5), and "Weekend" if it corresponds to Saturday or Sunday (6 or 7).
+
+Grade Classification: Given a score 72, print "Excellent" if the score is 90 or above, "Good" if it is between 70 and 89, and "Needs Improvement" if it is below 70.
+
+String Length and Content: Given the string "example", print "Short and contains 'a'" if the length is less than 7 and the string contains 'a', otherwise print "Other".
+
+Hard Exercises
+Quadratic Equation: Given coefficients a = 1, b = -3, and c = 2, determine and print the nature of the roots of the quadratic equation ax^2 + bx + c = 0. Print "Real and distinct", "Real and equal", or "Complex" based on the discriminant.
+
+Discount Calculation: Given a purchase amount 150, apply a 10% discount if the amount is greater than 100, otherwise apply a 5% discount. Print the final amount after discount.
+
+Triangle Classification: Given the sides of a triangle a = 3, b = 4, and c = 5, classify the triangle as "Equilateral", "Isosceles", or "Scalene" based on the lengths of the sides.
+
+BMI Calculation: Given weight 70 kg and height 1.75 meters, calculate the BMI and print "Underweight", "Normal weight", "Overweight", or "Obesity" based on BMI ranges.
+
+Number Range and Parity: Given a number 16, print "In range 10-20 and even" if the number is between 10 and 20 (inclusive) and even, otherwise print "Out of range or odd".
+
+Date Validation: Given a date with month 2 and day 29, check if the date is valid for the given year 2024 (leap year) or not. Print "Valid date" or "Invalid date".
+
+Exam Results: Given a score 55 and a minimum passing score 60, check if the student passed or failed. If the score is between 50 and 60, print "Re-examination required".
+
+Nested Conditions for Discounts: Given a total purchase amount and membership status (e.g., amount = 200, member = True), apply a discount based on the amount and membership status. Print the final discounted amount.
+
+Complex Number Check: Given a complex number 3 + 4j, check if it is purely real, purely imaginary, or neither. Print "Purely real", "Purely imaginary", or "Complex".
+
+Advanced Grade Evaluation: Given a score 88, categorize the score into "A" for 90-100, "B" for 80-89, "C" for 70-79, "D" for 60-69, and "F" for below 60. Print the corresponding grade.
