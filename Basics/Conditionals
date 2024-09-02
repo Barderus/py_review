@@ -56,4 +56,4 @@ Nested Conditions for Discounts: Given a total purchase amount and membership st
 
 Complex Number Check: Given a complex number 3 + 4j, check if it is purely real, purely imaginary, or neither. Print "Purely real", "Purely imaginary", or "Complex".
 
-Advanced Grade Evaluation: Given a score 88, categorize the score into "A" for 90-100, "B" for 80-89, "C" for 70-79, "D" for 60-69, and "F" for below 60. Print the corresponding grade.
+Advanced Grade : Given a score 88, categorize the score into "A" for 90-100, "B" for 80-89, "C" for 70-79, "D" for 60-69, and "F" for below 60. Print the corresponding grade.Evaluation
