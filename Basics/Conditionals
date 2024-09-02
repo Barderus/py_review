@@ -39,7 +39,6 @@ Grade Classification: Given a score 72, print "Excellent" if the score is 90 or 
 String Length and Content: Given the string "example", print "Short and contains 'a'" if the length is less than 7 and the string contains 'a', otherwise print "Other".
 
 Hard Exercises
-Quadratic Equation: Given coefficients a = 1, b = -3, and c = 2, determine and print the nature of the roots of the quadratic equation ax^2 + bx + c = 0. Print "Real and distinct", "Real and equal", or "Complex" based on the discriminant.
 
 Discount Calculation: Given a purchase amount 150, apply a 10% discount if the amount is greater than 100, otherwise apply a 5% discount. Print the final amount after discount.
 
